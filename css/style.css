@@ -21,3 +21,46 @@ h6 {
 p {
   margin: 0;
 }
+
+/* Top of the page*/
+
+header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: gray;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 10px 15px 10px 0;
+}
+
+header h1{
+  background-color: aqua;
+  padding: 15px 10px 10px 60px;
+  margin: 0;
+
+  
+}
+nav{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+
+}
+
+nav a{
+  padding: 24px 51px 14px 48px ;
+  margin: 3px 19px 5px 4px;
+  text-decoration: none;
+  align-items: center;
+  justify-items: end;
+}
+
+.hero-banner{
+ display: flex;
+ background-image: url(/images/02-hero-bg.jpg);
+ background-repeat: no-repeat;
+ background-position: center;
+ padding: 100px;
+}
