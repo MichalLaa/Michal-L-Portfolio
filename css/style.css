@@ -165,23 +165,23 @@ nav a{
 
 #workone{
   grid-area: workone;
-  background-image: url(/images/imagehtml.webp);
+  background-image: url(../images/imagehtml.webp);
 }
 
 #worktwo{
   grid-area: worktwo;
-  background-image: url(/images/imagecss.png);
+  background-image: url(../images/imagecss.png);
   
 }
 
 #horiseonweb{
 grid-area: hori;
-background-image: url(/images/screenshot.png);
+background-image: url(../images/screenshot.png);
 }
 
 #workthree{
   grid-area: work;
-  background-image: url(/images/Unofficial_JavaScript_logo_2.svg.png);
+  background-image: url(../images/Unofficial_JavaScript_logo_2.svg.png);
 }
 
 .gridareaCategory{
